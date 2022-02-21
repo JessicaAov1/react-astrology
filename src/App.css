@@ -6,7 +6,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/027/088/original/pexels-enric-cruz-l%C3%B3pez-6039245.jpg?1644715393");
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -17,6 +18,11 @@ h1 {
   font-family: "Quintessential", cursive;
   font-size: 50px;
   font-weight: bolder;
-  color: rgb(179, 137, 221);
+  color: rgb(157, 116, 196);
   margin-top: 80px;
+}
+button {
+  color: rgb(163, 159, 159);
+  margin: 20px;
+  border-radius: 10px;
 }

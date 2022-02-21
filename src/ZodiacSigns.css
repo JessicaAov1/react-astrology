@@ -7,5 +7,7 @@ img {
   padding-bottom: 20px;
 }
 button {
+  color: rgb(163, 159, 159);
   margin: 20px;
+  border-radius: 10px;
 }

@@ -1,4 +1,5 @@
 import "./App.css";
+import React from "react";
 import ZodiacSigns from "./ZodiacSigns";
 
 export default function App() {
