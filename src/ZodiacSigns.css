@@ -2,12 +2,8 @@ img {
   width: 55px;
   padding: 0px;
 }
-.ZodiacSigns {
-  margin: 80px 50px 50px 50px;
-  padding-bottom: 20px;
-}
-button {
-  color: rgb(163, 159, 159);
-  margin: 20px;
-  border-radius: 10px;
+
+a {
+  text-decoration: none;
+  color: rgb(63, 57, 57);
 }
